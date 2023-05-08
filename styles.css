@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+
+*{
+    margin: 0;
+    padding: 10;
+}
+
+
+.sidebar{
+    background-color: red;
+    width:30vw;
+    font-family: 'Cardo', serif;
+}
+
+.sidebar{
+    padding: 72px;
+}
+.sidebar nac li{
+    list-style:none;
+}
+.main{
+    background-color: yellow;
+    width:80vw
+}
+
+.container{
+    display: flex;
+
+}
